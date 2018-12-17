@@ -2,7 +2,7 @@
 layout: default
 ---
 
-It doesn't take much - neither equippment nor preparation. 
+It doesn't take much - neither equipment nor preparation. 
 All it takes is three friends and a commitment!
 
 ## Idea
@@ -41,8 +41,8 @@ You can get support from your team but usually it also helps if you make a commi
 ### Make it fun!
 Yep - keep it fun! If one of your teammates drops out - don't quit your friendship. It's just a race after all.
 ### Take it serious
-Although, compared to a triatlons the rustman sounds easy - do not underestimate it!
-Most people struggle to make time in their schedule for sport. That's precicely the idea of the race. 
+Although, compared to a triatlon the rustman sounds easy - do not underestimate it!
+Most people struggle to make time in their schedule for sport. That's precisely the idea of the race. 
 Commit and support each other to complete 10 consecutive days of physical exercise.
 If you don't feel fit enough to complete any of the race distances, better see a doctor and plan to do some serious lifestyle changes before you do anything else.
 
@@ -64,7 +64,6 @@ No! This is the only requirement. It has to be 30 consecutive racedays for your 
 Send us a mail and tell us your experience or get something clarified! 
 
 [Mail: rustmanrace@gmail.com](mailto:rustmanrace@gmail.com)
-
 
 
 
