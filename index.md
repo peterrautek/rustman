@@ -7,7 +7,7 @@ It doesn't take much - neither equipment nor preparation.
 All it takes is three friends and a commitment!
 
 ## Idea
-The Rustman Challenge is a _triatlon relay_ - the distance of an _Ironman_. 
+The Rustman Challenge is a _triathlon relay_ - the distance of an _Ironman_. 
 The catch is: You have one month to complete it as a team!
 
 ## Team
