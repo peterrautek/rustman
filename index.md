@@ -57,11 +57,14 @@ and another *8 consecutive days* of at least 5.28 km of running.
 Your commitment for a Rustman Level 3 is: 24 consecutive days of sport.
 
 
-## Rustman Relay 
-All it takes is three friends and a commitment!
-You need a team of three - one swimmer, one biker and one runner. 
-Find some friends and motivate them to join your team.
-The Rustman Levels and other rules stay the same, but each participant does only one discipline and motivates the others to complete their part!
+## Relay vs. Solo
+You can either do the Rustman solo, which means you do all 3 disciplines in a row, or you do it as a relay!
+
+All it takes for the relay is three friends and a commitment!
+You need a one swimmer, one biker and one runner. 
+
+The Rustman Levels and rules are the same for _solo_ and for _relay_, 
+but in the _relay_ each participant does only one discipline!
 
 ## Exceptions
 ### Solo
