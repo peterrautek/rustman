@@ -2,18 +2,12 @@
 layout: default
 ---
 
-It doesn't take much - neither special equipment nor much preparation. 
-
-## Idea
 The Rustman Challenge is a _triathlon_ - the distance of an _Ironman_. 
 The catch is: You spread it out over several days (up to one month).
 
-You can do it alone or complete it as a team!
+It doesn't take much - neither special equipment nor much preparation. 
 
-## Rustman Relay 
-All it takes is three friends and a commitment!
-You need a team of three - one swimmer, one biker and one runner. 
-Find some friends and motivate them to join your team.
+You can do it alone or complete it as a team!
 
 ## Order of Disciplines
 You or your team has to do the three disciplines in sequence. 
@@ -60,13 +54,21 @@ You do *8 consecutive days* of at least 22.54 km biking,
 followed by *8 consecutive days* of at least 490 meters of swimming, 
 and another *8 consecutive days* of at least 5.28 km of running. 
 
-Your commitment is 24 consecutive days of sport.
+Your commitment for a Rustman Level 3 is: 24 consecutive days of sport.
 
+
+## Rustman Relay 
+All it takes is three friends and a commitment!
+You need a team of three - one swimmer, one biker and one runner. 
+Find some friends and motivate them to join your team.
+The Rustman Levels and other rules stay the same, but each participant does only one discipline and motivates the others to complete their part!
 
 ## Exceptions
-There are no exceptions on race-days. Each race-day needs to be completed! 
+### Solo
+There are no exceptions. Each race-day needs to be completed! 
 
-However, if you do it as a relay and one participant cannot complete one of her/his race-days, 
+### Relay 
+If one participant cannot complete one of her/his race-days, 
 the other two teammates can choose to (both!) fill in. 
 Which means that they both have to complete this day for their mate. 
 They can do it together or individually but they must both do the full distance for this day.
