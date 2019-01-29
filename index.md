@@ -67,8 +67,12 @@ The Rustman Levels and rules are the same for _solo_ and for _relay_,
 but in the _relay_ each participant does only one discipline!
 
 ## Exceptions
+### Force Majeure
+If unforseen circumstances ocur that are out of your control, 
+you can postpone a race-day and append it to your race period or make up for the distance on another day.
+ 
 ### Solo
-There are no exceptions. Each race-day needs to be completed! 
+There are no other exceptions. Each race-day needs to be completed! 
 
 ### Relay 
 If one participant cannot complete one of her/his race-days, 
