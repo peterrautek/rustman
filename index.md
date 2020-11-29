@@ -62,6 +62,8 @@ Either way, your commitment for a Rustman Level 3 is: 24 consecutive days of spo
 Instead of committing to a specific Level you can also choose to do the _Flex_ variant. 
 You simply keep adding up your daily distances until you have reached the required total. 
 However, one rule stays: You cannot skip a day!
+A day counts as a race day if you have completed at least a level 1 distance in any discipline. 
+You can also add distances of multiple disciplines in one day as long as you have completed the minimum distance in at least one discipline.
 
 ## Relay vs. Solo
 You can either do the Rustman solo, which means you do all 3 disciplines in a row, or you do it as a relay!
