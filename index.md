@@ -3,21 +3,19 @@ layout: default
 ---
 
 The Rustman Challenge is a _triathlon_ - the distance of an _Ironman_. 
-The catch is: You spread it out over several days (up to one month).
-
-It doesn't take much - neither special equipment nor much preparation. 
-
+But, you spread it out over several days, up to one month. It doesn't take much - neither special equipment nor preparation. 
 You can do it alone or complete it as a team!
 
 ## Order of Disciplines
-You or your team has to do the three disciplines in sequence. 
-Each day you or your team has to finish a fraction of the distance of one discipline. 
-The order of the disciplines can be freely chosen, but each discipline has to be completed before the next one starts.
+You or your team has to finish the three disciplines (_3.86km swimming_, _180.25km biking_, _42.2km running_) without ever skipping a day. 
+However, each day you finish just a fraction of the full distances. 
+The order of the disciplines can be freely chosen. 
+You can either complete one discipline before staring the next one (_Rustman classic_), or mix the disciplines freely (_Rustman freestyle_).
 
 ## Rustman Level
 The Rustman Challenge is designed to scale with your ability. 
-For a Rustman Level 1 you complete a tenth of one discipline of an Ironman per day, 10 consecutive days per discipline (total of 30 days).
-For a Rustman Level 2 you complete a ninth of one discipline of an Ironman per day, 9 consecutive days per discipline (total of 27 days).
+For a Rustman Level 1 you complete a tenth of one discipline of an Ironman per day, 10 days per discipline (total of 30 days).
+For a Rustman Level 2 you complete a ninth of one discipline of an Ironman per day, 9 days per discipline (total of 27 days).
 For a Rustman Level 3 you complete an eighth, for 8 days per discipline; and so forth (total of 24 days).
 Level 10 is the highest level and it consists of completing the full distance of one discipline per day (for a total of 3 days).
 
@@ -54,21 +52,27 @@ You do *8 consecutive days* of at least 22.54 km biking,
 followed by *8 consecutive days* of at least 490 meters of swimming, 
 and another *8 consecutive days* of at least 5.28 km of running. 
 
-Your commitment for a Rustman Level 3 is: 24 consecutive days of sport.
+If you decide to do the _freestyle_ variant, 
+you can mix the days of biking, running, and swimming freely. 
+It is a bit harder to keep track but might be better for your feet.
 
+Either way, your commitment for a Rustman Level 3 is: 24 consecutive days of sport.
+
+## Rustman Flex
+Instead of committing to a specific Level you can also choose to do the _Flex_ variant. 
+You simply keep adding up your daily distances until you have reached the required total. 
+However, one rule stays: You cannot skip a day!
 
 ## Relay vs. Solo
 You can either do the Rustman solo, which means you do all 3 disciplines in a row, or you do it as a relay!
-
 All it takes for the relay is three friends and a commitment!
-You need a one swimmer, one biker and one runner. 
-
+You need one swimmer, one biker and one runner. 
 The Rustman Levels and rules are the same for _solo_ and for _relay_, 
 but in the _relay_ each participant does only one discipline!
 
 ## Exceptions
 ### Force Majeure
-If unforseen circumstances ocur that are out of your control, 
+If unforeseen circumstances occur that are out of your control, 
 you can postpone a race-day and append it to your race period or make up for the distance on another day.
  
 ### Solo
@@ -89,7 +93,7 @@ If you aren't into sports doing it as a relay is highly recommended.
 It gives the extra motivation to complete it.
 
 ### Make it social! 
-Motivate others to do it as a relay or to do a rustman at the same time as you do.
+Motivate others to do it as a relay or to do a Rustman at the same time as you do.
 Meet with your teammates or competitors before the challenge starts and plan it out. 
 Go for lunch/coffee/dinner in the transition days! 
 Help each other out! Keep each other motivated! 
